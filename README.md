@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vibhor0024
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning DSA in python on Neetcode
 - 💞️ I’m looking to collaborate on Django projects
 - 📫 How to reach me vibhorseth55@gmail.com
 
